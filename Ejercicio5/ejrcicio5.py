@@ -7,3 +7,5 @@ fecha = data['Fecha'].values
 
 print(promedio)
 print(fecha)
+print('hola buenas')
+
